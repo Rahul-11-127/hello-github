@@ -1,4 +1,2 @@
-# hello-github
-This is my first Git repository .
-<br>
-Author - Rahul Hans (cse)
+# Induction -
+Rahul Hans ( CSE department gndec ludhiana)
